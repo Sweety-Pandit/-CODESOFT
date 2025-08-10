@@ -1,0 +1,8 @@
+streamlit
+pandas 
+numpy
+sklearn.model_selection 
+train_test_split
+GridSearchCV
+sklearn.ensemble 
+RandomForestClassifier
